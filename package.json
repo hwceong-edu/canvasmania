@@ -1,0 +1,12 @@
+{
+  "name": "canvasmania",
+  "version": "1.0.0",
+  "description": "canvasmania module",
+  "main": "canvasmania.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hceong",
+  "license": "ISC"
+}
